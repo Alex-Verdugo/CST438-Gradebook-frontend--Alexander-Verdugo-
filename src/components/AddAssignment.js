@@ -23,7 +23,7 @@ class AddAssignment extends React.Component {
     //     console.log("AddAssignment.handleSubmit");
     //     const token = Cookies.get('XSRF-TOKEN');
         
-    //     fetch(`` , 
+    //     fetch(`http://localhost:8081//assignment/createAssignment?AssignmentName={} 3&AssignmentDueDate={}&CourseId={}` , 
     //         {  
     //           method: 'POST', 
     //           headers: { 'Content-Type': 'application/json',
